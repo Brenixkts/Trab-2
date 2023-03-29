@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@700&display=swap');
+
+
+
+
+body, p{
+    text-align: center;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.Titulo{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-family: "Roboto";
+}
+
+.menu{
+    background-color:rgb(9, 111, 143);
+    height: 10vh;
+    justify-content:space-around;
+    align-items: center;
+    display: flex;
+    box-shadow: 1px 1px 5px black;
+    font-weight: bold;
+    
+}
+
+.itens-lista{
+    display: flex;
+}
+
+li{
+    list-style: none;
+}
+
+a{
+    margin-left: 10vh;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: larger;
+}
+
+
+#img2{
+    margin: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+
+#img1{
+    width: 300px; 
+    height: 200px; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Atomo{
+    text-align: center;
+}
+
+#logo{
+    height: 80%;
+    width: 7vh;
+}
+
+#Foto_Faixa{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+#absorção{
+    padding-top: 15px;
+}
+#absorção2{
+    padding-top: 15px;
+    width: 55vh;
+}
+#foto_semicondutor{
+    margin-bottom: 15px;
+}
